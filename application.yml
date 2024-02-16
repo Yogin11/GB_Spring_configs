@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+  datasource:
+    generate-unique-name: false
+    name: project_managementDB

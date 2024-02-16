@@ -1,0 +1,12 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: User-project-ms
+  
+#api:
+#  users:
+#    basicUri: http://127.0.0.1:8081/users/
+#  projects:
+#    basicUri: http://127.0.0.1:8082/projects/
